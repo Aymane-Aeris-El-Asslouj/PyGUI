@@ -1,5 +1,5 @@
 # PyGUI
-Library for a layer/object-based Python GUI using PyCharm
+Pygame Library for a layer/object-based Python GUI
 
 ### Main functionality
 Supports creation of a window (gui.GUI) that can store layers (layer.Layer) which itself stores objects (layer.LayerObject) like buttons or drag-n-drop objects
